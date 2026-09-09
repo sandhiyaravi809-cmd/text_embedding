@@ -1,0 +1,11 @@
+Sentence 1 ID,Sentence 2 ID,Sentence 1,Sentence 2,Cosine Similarity
+1,2,Artificial intelligence is changing the way people use technology.,Machine learning allows computers to learn from data.,0.5261481
+1,3,Artificial intelligence is changing the way people use technology.,Deep learning uses neural networks to solve complex problems.,0.40965044
+4,5,Students use online platforms to improve their learning skills.,Online education has made learning accessible to many people.,0.7008623
+6,7,Climate change is causing significant changes in global weather patterns.,Renewable energy can help reduce dependence on fossil fuels.,0.30720428
+9,10,Space agencies are planning new missions to explore the Moon.,Astronomers use powerful telescopes to study distant galaxies.,0.23256221
+11,12,Technology companies are developing new artificial intelligence tools.,Smartphones have become an important part of everyday communication.,0.22587273
+13,14,Football is one of the most popular sports in the world.,Cricket attracts millions of fans across different countries.,0.45301926
+15,16,Healthy food and regular exercise can support a healthy lifestyle.,Doctors use modern technology to improve medical diagnosis.,0.09962907
+17,18,Businesses use data analytics to understand customer behavior.,Digital payments have become increasingly common around the world.,0.20204647
+19,20,Cybersecurity helps organizations protect their digital information.,Cloud computing allows users to access applications and data over the internet.,0.3254233
